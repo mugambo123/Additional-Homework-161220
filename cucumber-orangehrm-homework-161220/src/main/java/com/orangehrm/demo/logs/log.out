@@ -1,0 +1,5 @@
+2020-12-17 21:12:760 INFO  LoginPage :26 - Enter User Name : [[ChromeDriver: chrome on WINDOWS (8621281c07dcc323ad99254dfa2b0571)] -> xpath: //input[@id='txtUsername']]
+2020-12-17 21:12:38 INFO  LoginPage :32 - Enter Password : [[ChromeDriver: chrome on WINDOWS (8621281c07dcc323ad99254dfa2b0571)] -> xpath: //input[@id='txtPassword']]
+2020-12-17 21:12:309 INFO  LoginPage :39 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (8621281c07dcc323ad99254dfa2b0571)] -> xpath: //input[@id='btnLogin']]
+2020-12-17 21:12:155 INFO  LoginPage :30 - Click on Welcome Text : [[ChromeDriver: chrome on WINDOWS (8621281c07dcc323ad99254dfa2b0571)] -> xpath: //a[@id='welcome']]
+2020-12-17 21:12:105 INFO  LoginPage :37 - Click on Welcome Text : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Logout')]'
